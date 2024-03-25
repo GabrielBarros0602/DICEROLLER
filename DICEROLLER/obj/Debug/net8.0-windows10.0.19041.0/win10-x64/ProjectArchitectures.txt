@@ -1,0 +1,1 @@
+C:\Users\etechas\source\repos\DICEROLLER\DICEROLLER\DICEROLLER.csproj;x64
