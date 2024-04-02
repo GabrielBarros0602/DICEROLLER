@@ -16,7 +16,7 @@
 
             <Label
                 x:Name="ResultadoRolagem"
-                Text="Resultado"
+                Text="Resultado Rolagem!"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level2"
                 TextColor="Black"/>
